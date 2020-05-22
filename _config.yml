@@ -2,7 +2,7 @@ title: Be The Best You Can - Today
 author: Osman-G
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-Tell me why!
+  Tell me why!
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
